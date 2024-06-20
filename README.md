@@ -14,6 +14,9 @@ Dining Concierge Chatbot is a personalized restaurant recommendation system buil
 - **Scalable and Serverless:** Built with AWS Lambda, Lex, API Gateway, and DynamoDB, ensuring a scalable and efficient architecture.
 - **Secure and Reliable:** Uses AWS SES for secure email communications and ElasticSearch for efficient data retrieval.
 
+<img width="1470" alt="ReturningUser_1" src="https://github.com/tanmayr71/Dining-Concierge-Chatbot/assets/55703966/9a93420b-3417-4dfa-ae5d-6d9843f08203">
+
+
 ## Technologies Used
 
 - **AWS Lex:** Natural language understanding and conversational interface.
@@ -23,6 +26,8 @@ Dining Concierge Chatbot is a personalized restaurant recommendation system buil
 - **ElasticSearch:** Search and analytics engine for efficient data querying.
 - **AWS SES:** Email service for sending recommendations.
 - **Python:** Core programming language for Lambda functions.
+  
+<img width="1470" alt="Email_2" src="https://github.com/tanmayr71/Dining-Concierge-Chatbot/assets/55703966/016ce465-b42d-47b0-b440-e738b64b1195">
 
 ## Project Structure
 
